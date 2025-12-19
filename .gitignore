@@ -11,3 +11,4 @@ feature_importance.png
 
 #sh files
 *.sh
+./pytest_cache/
